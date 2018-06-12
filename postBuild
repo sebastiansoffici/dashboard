@@ -1,5 +1,0 @@
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
-jupyter laubextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install qgrid
-
-
